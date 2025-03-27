@@ -1,2 +1,33 @@
-# Self-directed_learning_source
+<p align="center">
+  <img src="207_s2_29自主學習獎狀.jpg" width="50%"/>
+  <br>
+</p>
 Arduino自主學習整理
+
+## 材料
+- Arduino UNO
+- 5641B 四位7段顯示器
+- 光敏電阻
+- 按鈕x3
+- 電阻(220Rx8，10kRx1)
+- 杜邦線x24
+## 5641B接腳定義
+| Arduino Pin | 5641B Pin | LED |
+| 2 | 7 | B |
+| 3 | 10 | F |
+| 4 | 11 | A |
+| 5 | 5 | G |
+| 6 | 4 | C |
+| 7 | 2 | D |
+| 8 | 1 | E |
+| 13 | 3 | DP |
+| 9 | 9 |  Dig2 |
+| 10 | 12 | Dig1 |
+| 11 | 8 | Dig3 |
+| 12 | 6 | ig4 |
+## btn接腳定義
+| 15 | + |
+| 16 | - |
+| 17 | Mode |
+## 光敏電阻接腳定義
+| 14 | Light |
