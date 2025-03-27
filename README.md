@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="207_s2_29自主學習獎狀.jpg" width="10%"/>
-  <br>
-</p>
 Arduino自主學習整理
 
 ## 材料
@@ -31,3 +27,9 @@ Arduino自主學習整理
 | 17 | Mode |
 ## 光敏電阻接腳定義
 | 14 | Light |
+
+#獎狀
+<p align="left">
+  <img src="207_s2_29自主學習獎狀.jpg" width="25%"/>
+  <br>
+</p>
