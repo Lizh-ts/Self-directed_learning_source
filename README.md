@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="207_s2_29自主學習獎狀.jpg" width="50%"/>
+<p align="left">
+  <img src="207_s2_29自主學習獎狀.jpg" width="10%"/>
   <br>
 </p>
 Arduino自主學習整理
