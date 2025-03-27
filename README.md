@@ -8,7 +8,7 @@ Arduino自主學習整理
 - 電阻(220Rx8，10kRx1)
 - 杜邦線x24
 ## 5641B接腳定義
-| Arduino Pin | 5641B Pin | LED |
+| ArduinoPin | 5641BPin | LED |
 | :--: | -- |
 | 2 | 7 | B |
 | 3 | 10 | F |
