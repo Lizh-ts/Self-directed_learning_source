@@ -1,5 +1,8 @@
 Arduino自主學習整理
 
+##簡述
+1
+
 ## 材料
 - Arduino UNO
 - 5641B 四位7段顯示器
@@ -7,6 +10,7 @@ Arduino自主學習整理
 - 按鈕x3
 - 電阻(220Rx8，10kRx1)
 - 杜邦線x24
+
 ## 5641B接腳定義
 | Arduino Pin | 5641B Pin | LED |
 | :--: | -- | -- |
@@ -35,9 +39,8 @@ btn接腳定義
 | :--: | -- |
 | **14** | Light |
 
-#獎狀
+##獎狀
 <p align="left">
   <img src="207_s2_29自主學習獎狀.jpg" width="25%"/>
   <br>
 </p>
-
