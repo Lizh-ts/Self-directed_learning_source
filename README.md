@@ -47,6 +47,6 @@ btn接腳定義
 # 獎狀
 
 <p align="left">
-  <img src="207_s2_29自主學習獎狀.jpg" width="25%"/>
+  <img src="207_s2_29自主學習獎狀.jpg" width="40%"/>
   <br>
 </p>
