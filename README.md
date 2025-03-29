@@ -47,10 +47,10 @@ btn接腳定義
 # 獎狀
 
 <p align="left">
-  <img src="207_s2_29自主學習獎狀.jpg" width="40%"/>
+  <img src="207_s2_29自主學習獎狀.jpg" width="44%"/>
   <br>
 </p>
 
 <a href="https://youtu.be/Xr3veA3CUxM">
-    <img src="NuButton.jpg" alt="觀看影片" width="100%">
+    <img src="NuButton.jpg" alt="觀看影片" width="44%">
 </a>
