@@ -50,4 +50,7 @@ btn接腳定義
   <img src="207_s2_29自主學習獎狀.jpg" width="40%"/>
   <br>
 </p>
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
+
+<a href="https://youtu.be/Xr3veA3CUxM">
+    <img src="NuButton.jpg" alt="觀看影片" width="100%">
+</a>
