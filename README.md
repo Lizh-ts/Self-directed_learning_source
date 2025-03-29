@@ -50,7 +50,7 @@ btn接腳定義
   <img src="207_s2_29自主學習獎狀.jpg" width="44%"/>
   <br>
 </p>
-影片網址如下(這只是一顆總電源開關) <br> 
+影片網址點底下(這只是一顆總電源開關) <br> 
 <a href="https://youtu.be/Xr3veA3CUxM">
     <img src="NuButton.jpg" alt="觀看影片" width="25%">
 </a>
