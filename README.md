@@ -15,7 +15,7 @@
 - 杜邦線x24
 
 ## 5641B接腳定義
-| Arduino Pin | 5641B Pin | LED |
+| Arduino Pin | 5641B Pin | Definition |
 | :--: | -- | -- |
 | **2** | 7 | B |
 | **3** | 10 | F |
